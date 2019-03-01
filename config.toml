@@ -1,0 +1,4 @@
+baseURL = "https://jordiburgos.com/"
+languageCode = "en-us"
+title = "Jordi Burgos"
+theme = "hugo-sustain"
